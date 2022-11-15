@@ -1,0 +1,6 @@
+[submodule "nwt-kts-front"]
+	path = nwt-kts-front
+	url = https://github.com/therealtgd/nwt-kts-front.git
+[submodule "nwt-kts-back"]
+	path = nwt-kts-back
+	url = https://github.com/therealtgd/nwt-kts-back.git
